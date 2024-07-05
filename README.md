@@ -1,4 +1,4 @@
-# Cineaste
+# Movie-Hub
 
 
 INTRO OF THE PROJECT: A website to browse movies and create a watchlist together. An idea to create a solution
